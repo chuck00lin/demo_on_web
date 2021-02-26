@@ -1,0 +1,2 @@
+//start point
+main();
